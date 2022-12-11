@@ -18,3 +18,4 @@ The server will start on [http://localhost:3000](http://localhost:3000)
 
 ## Link to github pages:
 
+[https://alena557miles.github.io/test-task-onix/](https://alena557miles.github.io/test-task-onix/)
